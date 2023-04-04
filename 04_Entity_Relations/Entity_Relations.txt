@@ -1,0 +1,7 @@
+Entity Relations
+
+• Object Composition;
+• Fluent API;
+• Shadow Properties;
+• Attributes;
+• Table Relationships.
