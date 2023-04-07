@@ -1,0 +1,5 @@
+LINQ
+
+• LINQ;
+• IEnumerable vs IQueryable;
+• Result Model.
