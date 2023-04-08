@@ -1,0 +1,8 @@
+Advanced Querying
+
+• Executing Native SQL Queries;
+• Object State Tracking;
+• Bulk Operations;
+• Types of Loading;
+• Concurrency Checks;
+• Cascade Operations.
