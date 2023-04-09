@@ -1,0 +1,4 @@
+C# Auto Mapping Objects
+
+• Data Transfer Objects;
+• AutoMapper Library.
