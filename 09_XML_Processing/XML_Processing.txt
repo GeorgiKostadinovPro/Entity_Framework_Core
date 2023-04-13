@@ -1,0 +1,6 @@
+XML Processing
+
+• What is XML?;
+• Parsing XML;
+• XML Attributes;
+• XML in Entity Framework.
