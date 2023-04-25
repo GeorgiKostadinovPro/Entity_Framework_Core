@@ -3,7 +3,7 @@ This is a repository where I upload all my exercises, exams and certificates fro
 
 C# Databases Advanced Exam - 100/100 points.
 
-- Topics: CRUD, Table Relations, Built-in Functions, Subqueries and Joins, Indices and Data Aggregation, Functions and Stored Procedures
+- Topics: Entity Framework Introduction, Entity Relations, LINQ, Advanced Querying, C# Auto Mapping Objects, JSON Processing, XML Processing
 
 Course Topics:
 
