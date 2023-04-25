@@ -7,14 +7,17 @@ C# Databases Advanced Exam - 100/100 points.
 
 Course Topics:
 
-- Databases Introduction
-- CRUD
-- Table Relations
-- Built-in Functions
-- Subqueries and Joins
-- Indices and Data Aggregation
-- Functions and Stored Procedures
-- Triggers and Transactions
+- ADO.NET
+- ORM Fundamentals
+- Entity Framework Introduction
+- Entity Relations
+- LINQ
+- Advanced Querying
+- C# Auto Mapping Objects
+- JSON Processing
+- XML Processing
+- Best Practices And Architecture
+- NoSQL
 
 Certificate:
 
